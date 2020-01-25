@@ -1,0 +1,75 @@
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe.config
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\App.g.cs
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion_MarkupCompile.cache
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.g.resources
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.Properties.Resources.resources
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe.config
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csprojResolveAssemblyReference.cache
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.baml
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.g.cs
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\App.g.cs
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion_MarkupCompile.cache
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.g.resources
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.Properties.Resources.resources
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csproj.GenerateResource.Cache
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.baml
+C:\Users\Ablagodyr\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.g.cs
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.baml
+C:\Users\user\Desktop\BaseOfCars - Remake version\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.g.cs
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe.config
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.baml
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.g.cs
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\App.g.cs
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion_MarkupCompile.cache
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.g.resources
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.Properties.Resources.resources
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\user\Desktop\BaseOfCars 08.02 - Copy\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe.config
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.baml
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.g.cs
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\App.g.cs
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion_MarkupCompile.cache
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.g.resources
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.Properties.Resources.resources
+C:\Users\user\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csproj.GenerateResource.Cache
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe.config
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.pdb
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csprojResolveAssemblyReference.cache
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.baml
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.baml
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\DialogWindow.g.cs
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\MainWindow.g.cs
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\App.g.cs
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion_MarkupCompile.cache
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.g.resources
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.Properties.Resources.resources
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\obj\Debug\BaseOfCarsRemadeVersion.csproj.GenerateResource.Cache
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.exe
+C:\Users\Ablagodyr\Desktop\BaseOfCars NewVer\BaseOfCarsRemadeVersion\bin\Debug\BaseOfCarsRemadeVersion.pdb
