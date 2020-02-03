@@ -1,0 +1,15 @@
+E:\Programming\3Tasks\Task2\bin\Debug\Task2.exe.config
+E:\Programming\3Tasks\Task2\obj\Debug\Task2.exe
+E:\Programming\3Tasks\Task2\obj\Debug\Task2.pdb
+E:\Programming\3Tasks\Task2\bin\Debug\Task2.exe
+E:\Programming\3Tasks\Task2\bin\Debug\Task2.pdb
+E:\Programming\3Tasks\Task2\obj\Debug\MathAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ablagodyr\Desktop\3Tasks\Task2\bin\Debug\Task2.exe.config
+C:\Users\Ablagodyr\Desktop\3Tasks\Task2\obj\Debug\Task2.exe
+C:\Users\Ablagodyr\Desktop\3Tasks\Task2\obj\Debug\Task2.pdb
+C:\Users\Ablagodyr\Desktop\3Tasks\Task2\bin\Debug\Task2.exe
+C:\Users\Ablagodyr\Desktop\3Tasks\Task2\bin\Debug\Task2.pdb
+C:\Users\Ablagodyr\Desktop\3Tasks\Task2\obj\Debug\MathAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\3Tasks\Task2\bin\Debug\Task2.exe.config
+C:\Users\Андрей\Desktop\3Tasks\Task2\obj\Debug\Task2.exe
+C:\Users\Андрей\Desktop\3Tasks\Task2\obj\Debug\Task2.pdb

@@ -1,0 +1,8 @@
+c:\Users\ablagodyr\documents\visual studio 2013\Projects\3Tasks\Task2\bin\Debug\Task2.exe.config
+c:\Users\ablagodyr\documents\visual studio 2013\Projects\3Tasks\Task2\bin\Debug\Task2.exe
+c:\Users\ablagodyr\documents\visual studio 2013\Projects\3Tasks\Task2\bin\Debug\Task2.pdb
+c:\Users\ablagodyr\documents\visual studio 2013\Projects\3Tasks\Task2\obj\Debug\Task2.exe
+c:\Users\ablagodyr\documents\visual studio 2013\Projects\3Tasks\Task2\obj\Debug\Task2.pdb
+E:\Programming\3Tasks\Task2\bin\Debug\Task2.exe.config
+E:\Programming\3Tasks\Task2\obj\Debug\Task2.exe
+E:\Programming\3Tasks\Task2\obj\Debug\Task2.pdb
