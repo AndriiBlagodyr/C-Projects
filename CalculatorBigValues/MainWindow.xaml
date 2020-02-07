@@ -1,0 +1,55 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculator" 
+        Height="260" 
+        Width="525">
+    <Grid>
+        <StackPanel Margin="10" 
+                PreviewTextInput="pnl_PreviewTextInput" 
+                PreviewKeyDown="pnl_PreviewKeyDown">
+
+            <Label HorizontalAlignment="Center">Insert value 1 (Only Numbers is possible)</Label>
+            <TextBox Name="textBox1" Height="22" VerticalAlignment="Top" Margin="2" />
+            <Label HorizontalAlignment="Center">Insert value 2 (Only Numbers is possible)</Label>
+            <TextBox Name="textBox2" Height="22" VerticalAlignment="Top" Margin="2" />
+            <StackPanel Height="40" Orientation="Horizontal">
+                <Button                    
+                    Name="Plus"
+                    Height="30"
+                    Width="60"
+                    Margin="85, 5, 25, 5"
+                    Content="+"
+                    Click="PlusButtonClick"/>
+                <Button
+                    Name="Minus"
+                    Height="30" 
+                    Width="60" 
+                    Margin="5, 5, 25, 5" 
+                    Content="-"
+                    Click="MinusButtonClick"/> 
+                <Button
+                    Name="Multiply"
+                    Height="30"
+                    Width="60"
+                    Margin="5, 5, 25, 5" 
+                    Content="*"
+                    Click="MultiplyButtonClick"/>
+                <Button
+                    Name="Divide"
+                    Height="30"
+                    Width="60" 
+                    Margin="5, 5, 25, 5" 
+                    Content="/"
+                    Click="DivideButtonClick"/>
+            </StackPanel>
+            <Label HorizontalAlignment="Center">Result</Label>
+            <TextBox 
+                IsReadOnly="True"
+                Name="textBox3"
+                Height="22"
+                VerticalAlignment="Top"
+                Margin="2" />
+        </StackPanel>
+    </Grid>
+</Window>
