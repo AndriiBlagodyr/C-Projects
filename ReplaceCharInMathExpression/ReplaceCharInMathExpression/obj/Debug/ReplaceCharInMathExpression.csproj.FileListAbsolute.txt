@@ -1,0 +1,12 @@
+c:\users\ablagodyr\documents\visual studio 2013\Projects\ReplaceCharInMathExpression\ReplaceCharInMathExpression\bin\Debug\ReplaceCharInMathExpression.exe.config
+c:\users\ablagodyr\documents\visual studio 2013\Projects\ReplaceCharInMathExpression\ReplaceCharInMathExpression\bin\Debug\ReplaceCharInMathExpression.exe
+c:\users\ablagodyr\documents\visual studio 2013\Projects\ReplaceCharInMathExpression\ReplaceCharInMathExpression\bin\Debug\ReplaceCharInMathExpression.pdb
+c:\users\ablagodyr\documents\visual studio 2013\Projects\ReplaceCharInMathExpression\ReplaceCharInMathExpression\obj\Debug\ReplaceCharInMathExpression.csprojResolveAssemblyReference.cache
+c:\users\ablagodyr\documents\visual studio 2013\Projects\ReplaceCharInMathExpression\ReplaceCharInMathExpression\obj\Debug\ReplaceCharInMathExpression.exe
+c:\users\ablagodyr\documents\visual studio 2013\Projects\ReplaceCharInMathExpression\ReplaceCharInMathExpression\obj\Debug\ReplaceCharInMathExpression.pdb
+C:\Users\Ablagodyr\Desktop\ReplaceCharInMathExpression\ReplaceCharInMathExpression\bin\Debug\ReplaceCharInMathExpression.exe.config
+C:\Users\Ablagodyr\Desktop\ReplaceCharInMathExpression\ReplaceCharInMathExpression\obj\Debug\ReplaceCharInMathExpression.exe
+C:\Users\Ablagodyr\Desktop\ReplaceCharInMathExpression\ReplaceCharInMathExpression\obj\Debug\ReplaceCharInMathExpression.pdb
+C:\Users\Ablagodyr\Desktop\ReplaceCharInMathExpression\ReplaceCharInMathExpression\bin\Debug\ReplaceCharInMathExpression.exe
+C:\Users\Ablagodyr\Desktop\ReplaceCharInMathExpression\ReplaceCharInMathExpression\bin\Debug\ReplaceCharInMathExpression.pdb
+C:\Users\Ablagodyr\Desktop\ReplaceCharInMathExpression\ReplaceCharInMathExpression\obj\Debug\ReplaceCharInMathExpression.csprojResolveAssemblyReference.cache
